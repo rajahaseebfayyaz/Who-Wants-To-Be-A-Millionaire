@@ -1,5 +1,6 @@
-gimport url ('https://fonts.googleapis.com/css2?family=Nova+Square&
-display=swap');
+body{
+    font-family: Nova Square;
+}
 
 :root {
     background-color: rgb(29,26,26)
@@ -97,3 +98,4 @@ fa-crown {
     font-size: 2.5rem;
     margin-left: 1rem;
 }
+
