@@ -146,7 +146,7 @@ startGame = () => {
 }
 
 getNewQuestion = () => {
-    if(availableQuestions.lenght === 0 || questionsCounter > MAX_QUESTIONS) {
+    if(availableQuestions.lenght === 0 || questionCounter > MAX_QUESTIONS) {
         localStorage.setitem(`mostRecentStore`, score) 
         return window.location.assign(`/end.html`)
     }
@@ -192,4 +192,11 @@ choices.forEach(choice => {
         }, 1000)
     })
 })
+
+incrementScore = num => {
+    score +=num
+    scoreText.innerText = score
+}
+
+startGame()
 
