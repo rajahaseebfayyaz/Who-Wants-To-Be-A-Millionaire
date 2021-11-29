@@ -18,6 +18,7 @@ let questions = [
         choice3: 'India Won by 7 Wickets',
         choice4: 'India Won by 25 runs',
         answer: 1,
+        amount: 200,
     },
     {
         question: 'What is the Capital of Djibouti?',
@@ -146,7 +147,7 @@ startGame = () => {
 }
 
 getNewQuestion = () => {
-    if(availableQuestions.lenght === 0 || questionCounter > MAX_QUESTIONS) {
+    if((availableQuestions.length === 0) || (questionCounter > MAX_QUESTIONS)) {
         localStorage.setitem(`mostRecentStore`, score) 
         return window.location.assign(`/end.html`)
     }
@@ -154,7 +155,7 @@ getNewQuestion = () => {
     questionCounter++
     progressText.innerText = "Question ${questionCounter} of ${MAX_QUESTIONS}"
     progressBarFull.getElementsByClassName.width = `${(questionCounter/MAX_QUESTIONS) * 100}%`
-    const questionsIndex = Math.floor(Math.random() * availableQuestions.lenght)
+    const questionsIndex = Math.floor(Math.random() * availableQuestions.length)
     currentQuestion = availableQuestions[questionsIndex]
     question.innerText = currentQuestion.question
 
@@ -163,7 +164,7 @@ getNewQuestion = () => {
         choice.innertext = currentQuestion[`choice` + number]
     })
 
-    availableQuestions.splice(questionsIndex, 1)
+    //availableQuestions.splice(questionsIndex, 1)
     
     AcceptingAnswers = true
 }
