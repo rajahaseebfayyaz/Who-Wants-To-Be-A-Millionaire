@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,16 +8,115 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Document</title>
 </head>
+
 <body>
-    <div class="container">
+    <noscript>
+        <div class="modal">
+            <div class="modal-content">
+                <div id="home" class="flex-column flex-center">
+                    <h2>Javascript must be enabled to play this game.</h2>
+                    <a class="btn" href="https://www.google.com/search?q=enable+javascript" target="_blank">
+                        Click Here
+                    </a>
+                    <p>
+                         to search how to do this on your browser.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </noscript>
+
+
+    <!-- Home Page -->
+    <div class="container start-container">
         <div id="home" class="flex-column flex-center">
             <h1>Are you Ready?</h1>
-            <a href="/game.html" class="btn">Play</a>
-            <a href="/highscores.html" id="highscores-btn" class="btn">High scores<i class="fas fa-crown"></i></a>
+            <a onclick="startGame()" class="btn">Play</a>
+            <a onclick="showHighScores()" id="highscores-btn" class="btn">High scores<i class="fas fa-crown"></i></a>
         </div>
     </div>
 
-    
+    <!-- High Scores Page -->
+    <div class="container high-score-container hide">
+        <div id="highscores" class="flex-center flex-column">
+            <h1 id="finalscore">Leaderboard</h1>
+            <ul id="highScoresList"></ul>
+            <a href="/" class="btn">Go Home<i class="fas fa-home"></i></a>
+            <a onclick="startGame()" class="btn">Play Game<i class="fas fa-play"></i></a>
+        </div>
+    </div>
 
-    <script src="assets/js/script.js"></script>
+    <!-- Game Page -->
+    <div class="container game-container hide">
+        <div id="game" class="justify-center flex-column">
+            <div id="hud">
+                <div class="hud-item">
+                    <p id="progressText" class="hud-prefix">
+                        Question
+                    </p>
+                    <div id="progressbar">
+                        <div id="progressbarfull"></div>
+                    </div>
+                </div>
+                <div class="hud-item">
+                    <p class="hud-prefix">
+                        Score
+                    </p>
+                    <h1 class="hud-main-text">
+                        £ <span id="score"></span>
+                    </h1>
+                </div>
+            </div>
+            <h1 id="question">What is the answer to this question</h1>
+            <div class="choice-container">
+                <p class="choice-prefix">A</p>
+                <p class="choice-text" data-number="1">Choice</p>
+            </div>
+            <div class="choice-container">
+                <p class="choice-prefix">B</p>
+                <p class="choice-text" data-number="2">Choice 2</p>
+            </div>
+            <div class="choice-container">
+                <p class="choice-prefix">C</p>
+                <p class="choice-text" data-number="3">Choice 3</p>
+            </div>
+            <div class="choice-container">
+                <p class="choice-prefix">D</p>
+                <p class="choice-text" data-number="4">Choice 4</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- End of Game Page -->
+    <div class="container game-over-container hide">
+        <div id="end" class="justify-center flex-column">
+            <h1>£ <span id="finalScore">0</span></h1>
+            <div class="end-form-container">
+                <h2 id="end-text">Enter your name below to save the score!</h2>
+                <input type="text" name="name" id="username" placeholder="Enter your name">
+                <a class="btn" id="saveScoreBtn" onClick="saveHighScore()">Save</a>
+            </div>
+            <a onclick="startGame()" class="btn">Play Again</a>
+            <a href="/" class="btn">Go Home<i class="fas fa-home"></i></a>
+
+        </div>
+    </div>
+
+    <!-- Volume Controls -->
+    <div class="volume-controls">
+        <a class="btn circle" onClick="volumeControl();" id="play-music">
+            <i class="fas fa-2x fa-volume-mute" aria-label="Turn on music"></i>
+        </a>
+        <a class="btn hide circle" onClick="volumeControl();" id="stop-music">
+            <i class="fas fa-2x fa-volume-up" aria-label="Turn off music"></i>
+        </a>
+    </div>
+
+    <!-- Music: “Countering Evil”, from PlayOnLoop.com Licensed under Creative Commons by Attribution 4.0 -->
+    <audio id="music" src="assets/audio/POL-countering-evil-short.wav"></audio>
+
+    <!-- SCRIPTS -->
+    <script src="assets/js/game.js"></script>
+    <!--font awesome script-->
+    <script src="https://kit.fontawesome.com/6b363bf30c.js" crossorigin="anonymous"></script>
 </body>
