@@ -81,7 +81,7 @@ h2 {
 
 .btn:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba (8, 114, 244, 0.6);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(8, 114, 244, 0.6);
     transition-duration: 150ms;
     transform: scale(1.03);
 }
@@ -185,7 +185,8 @@ body {
 
 .choice-container:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(6, 103, 247, 0.5); 
+    box-shadow: 0 0.4rem 1.4rem 0;
+    background:  rgba(6, 103, 247, 0.5); 
     transform: scale(1.02);
     transition-duration: 100ms;
 }
