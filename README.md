@@ -116,6 +116,8 @@ colors.co I used a colors.co's color pallet tool to help pick complementary colo
 
 ### Validation Testing
 
+[CSS Validator Testing](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frajahaseebfayyaz.github.io%2FCarpet-How-it-all-Began%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
 
 ### Accessibility Testing
 
@@ -198,6 +200,8 @@ I have faced several issues while making my first project but Mentioned below ar
 
 
 **Choice container issue**
+
+**Question Mark issue**
 
 
 

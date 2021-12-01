@@ -68,7 +68,7 @@
              answer: 3,
          },
          {
-             question: 'In the history of motor sport, which of these iconic races was held first??',
+             question: 'In the history of motor sport, which of these iconic races was held first?',
              choice1: 'Le Mans 24 Hours',
              choice2: 'Monaco Grand Prix',
              choice3: 'Indy 500',
@@ -140,7 +140,7 @@
              answer: 3,
          },
          {
-             question: 'In 1718, which pirate died in battle off the coast of what is now North Carolina??',
+             question: 'In 1718, which pirate died in battle off the coast of what is now North Carolina?',
              choice1: 'Calico Jack',
              choice2: 'Blackbeard',
              choice3: 'Bartholomew Roberts',

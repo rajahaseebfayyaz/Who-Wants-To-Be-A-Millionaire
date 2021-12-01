@@ -14,7 +14,7 @@ body {
     margin: 0;
     padding: 0;
     font-size: 62.5%;
-    font-family: 'Playfair Display', cursive;
+    font-family: 'Playfair Display', serif;
 
 }
 
@@ -249,10 +249,10 @@ body {
 }
 
 .circle {
-    border: 2px solid deeppink;
+    border: 2px solid #FFF;
     border-radius: 50%;
-    background: goldenrod;
-    color: deeppink;
+    background: #3098d9;
+    color: #FFF;
     text-align: center;
     width: 70px;
     height: 70px;
