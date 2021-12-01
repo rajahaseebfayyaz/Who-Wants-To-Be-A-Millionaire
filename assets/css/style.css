@@ -81,8 +81,8 @@ h2 {
 
 .btn:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgb (8, 114, 244, 0.6);
-    transition: transform 150ms;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba (8, 114, 244, 0.6);
+    transition-duration: 150ms;
     transform: scale(1.03);
 }
 
@@ -178,15 +178,16 @@ body {
     margin-bottom: 0.8rem;
     width: 100%;
     border-radius: 4px;
-    background: rgb (18, 93, 255);
+    background: rgb(18, 93, 255);
     font-size: 3rem;
     min-width: 80rem;
 }
 
 .choice-container:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgb(6, 103, 247, 0.5) transform scale(1.02);
-    transform: transform 100ms;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(6, 103, 247, 0.5); 
+    transform: scale(1.02);
+    transition-duration: 100ms;
 }
 
 .choice-prefix {
