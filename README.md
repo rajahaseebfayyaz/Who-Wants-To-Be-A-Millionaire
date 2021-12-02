@@ -20,6 +20,44 @@ rajahaseebfayyaz
 The Who-Wants-To-Be-A-Millionaire provides the users with interactive ability to test the knowledge, how the user can test knowledge regards to different aspects of life. Moreover it also provides users with the key elements of both the fun and excitement through scoring systems.
 In the last, user can also provide feedback on the game. The Game has intuitive navigation and color schemes tied in to most people views.
 
+## Table of Contents
+
+- [OVERVIEW](#overview)
+  * [Deployed URL](#deployed-url)
+  * [Author](#author)
+- [Project Overview](#project-overview)
+  * [UX](#ux)
+    + [Design Choices](#design-choices)
+    + [Colors](#colors)
+    + [Typography](#typography)
+    + [Icons](#icons)
+  * [Features](#features)
+        * [Home Page](#home-page)
+      - [Highscore page](#highscore-page)
+      - [Playing the game](#playing-the-game)
+      - [Game End Page](#game-end-page)
+      - [404 Page](#404-page)
+  * [Future Features](#future-features)
+    + [Programing Languages](#programing-languages)
+    + [Fonts](#fonts)
+  * [Testing](#testing)
+    + [Validation Testing](#validation-testing)
+    + [Accessibility Testing](#accessibility-testing)
+    + [Manual Testing](#manual-testing)
+    + [Cross Browser and Cross Device Testing](#cross-browser-and-cross-device-testing)
+    + [Homepage](#homepage)
+    + [404](#404)
+    + [Highscores Page](#highscores-page)
+    + [Playing Game](#playing-game)
+    + [Game Over page](#game-over-page)
+    + [BUGS](#bugs)
+    + [Outstanding Defects](#outstanding-defects)
+  * [Deployment](#deployment)
+  * [Credits](#credits)
+    + [Content](#content)
+    + [Media](#media)
+    + [Acknowledgments](#acknowledgments)
+
 
 
 ## UX
@@ -310,3 +348,4 @@ https://rajahaseebfayyaz.github.io/Who-Wants-To-Be-A-Millionaire/
 - Mentor malia havlicek has provided with helpful learning material in order to complete this project. 
 - CodeInstitute's LOVE-Maths project has been used as a starting point,Moreover videos from lovemaths project were extremely helpful in creating the project as a whole.
 - The webdevsimplified & briandesign's youtube channels were extremely helpful in making Who-wants-To-Be-A-Millionaire work the way it needs to be.
+- [Table contents generated with markdown-toc](https://ecotrust-canada.github.io/markdown-toc/)
