@@ -104,6 +104,7 @@ FontAwesome - for icons associated with styling inputs such as home button,Volum
 - This game should be published on social media and copyrights to be issued.
 - Timer should be added so the user has to answer within a time limit.
 - A background image should be placed but due to copyright issues i have left it.
+- Style the leadershop to make it easier to read.
 
 ### Programing Languages
 - HTML
@@ -308,4 +309,4 @@ https://rajahaseebfayyaz.github.io/Who-Wants-To-Be-A-Millionaire/
 ### Acknowledgments
 - Mentor malia havlicek has provided with helpful learning material in order to complete this project. 
 - CodeInstitute's LOVE-Maths project has been used as a starting point,Moreover videos from lovemaths project were extremely helpful in creating the project as a whole.
-- There's only bit of code which might be similar to mavlia hevlicek's quiz game,webdevsimplified & briandesign's youtube channels which were extremely helpful in making Who-wants-To-Be-A-Millionaire work the way it needs to be.
+- The webdevsimplified & briandesign's youtube channels were extremely helpful in making Who-wants-To-Be-A-Millionaire work the way it needs to be.
