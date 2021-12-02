@@ -34,6 +34,9 @@ In the last, user can also provide feedback on the game. The Game has intuitive 
 - Contrast is the most important thing regarding the choice of colours. So, it could be easy for young ones who are still learning "symbols" that are letters and words and also for older people having visual impairment.
 
 
+![image](https://user-images.githubusercontent.com/87448281/144340998-575c9c58-783d-4cd8-aa61-e05a4c0dcc6f.png)
+
+https://coolors.co/ffffff-4a10d1-ffb703-52b83d-c1121f-3098d9-000814
 
 
 
@@ -44,13 +47,9 @@ In the last, user can also provide feedback on the game. The Game has intuitive 
 
 https://fonts.google.com/specimen/Playfair+Display
 
-### Images
-- Icons in the signup page and about page demonstrates the common visual language which effectively bridges language gaps.
-- images are used as evidence, for illustration, for comparison and contrast, and for analytical purposes. 
-- the image on the home page represents how the carpets were sold in merkets during the ancient time  and even the same trend is following in different countries nowadays.
-- The image on the about page demonstrates that carpet is making a comeback in a big and very stylish-way. 
-- Collection of images in gallery explains the trend of carpeting from ancient to modern period.
+### Icons 
 
+FontAwesome - for icons associated with styling inputs such as home button,Volume controls.
 
 ## Features
 
@@ -242,7 +241,7 @@ I have faced several issues while making my first project but Mentioned below ar
 4. Once the master branch has been selected click save ,than the page provides the link to the completed website in a green box.
 
 - The live link can be found here:-
-https://rajahaseebfayyaz.github.io/Carpet-How-it-all-Began/
+
 
 ## Credits
 
