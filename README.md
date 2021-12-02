@@ -242,12 +242,11 @@ I have faced several issues while making my first project but Mentioned below ar
 
 
 
-https://rajahaseebfayyaz.github.io/Who-Wants-To-Be-A-Millionaire/
-
-
 4. Once the master branch has been selected click save ,than the page provides the link to the completed website in a green box.
 
 - The live link can be found here:-
+
+https://rajahaseebfayyaz.github.io/Who-Wants-To-Be-A-Millionaire/
 
 
 ## Credits
