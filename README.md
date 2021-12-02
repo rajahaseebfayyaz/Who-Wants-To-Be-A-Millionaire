@@ -232,6 +232,8 @@ I have faced several issues while making my first project but Mentioned below ar
 
 2. On the settings page,scroll all the way down to the github pages section and click the link.
 
+![image](https://user-images.githubusercontent.com/87448281/144343404-ce2d1bf1-ce37-4edf-b2e4-d170b8f48039.png)
+
 
 
 3. From the source section drops-down menu, select the Master Branch.
