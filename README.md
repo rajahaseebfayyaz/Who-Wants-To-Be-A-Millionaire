@@ -32,7 +32,7 @@ In the last, user can also provide feedback on the game. The Game has intuitive 
     + [Typography](#typography)
     + [Icons](#icons)
   * [Features](#features)
-        * [Home Page](#home-page)
+      - [Home Page](#home-page)
       - [Highscore page](#highscore-page)
       - [Playing the game](#playing-the-game)
       - [Game End Page](#game-end-page)
