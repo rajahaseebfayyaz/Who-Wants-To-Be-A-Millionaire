@@ -304,7 +304,7 @@ saveHighScore = () => {
     // from stack overflow https://stackoverflow.com/questions/43762363/how-to-store-an-array-of-objects-in-local-storage
     let highscores = JSON.parse(localStorage.getItem("highscores") || "[]");
     highscores.push({ user: userName, score: score });
-    highscores.sort((a,b)=> (parseInt(a.score.replace(/,/g,''),10) < parseInt(b.score.replace(/,/g,''),10) ? 1 : -1));
+    highscores.sort((a, b) => (parseInt(a.score.replace(/,/g, ''), 10) < parseInt(b.score.replace(/,/g, ''), 10) ? 1 : -1));
     localStorage.setItem('highscores', JSON.stringify(highscores));
     showHighScores();
 };
