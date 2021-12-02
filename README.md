@@ -74,7 +74,8 @@ FontAwesome - for icons associated with styling inputs such as home button,Volum
 #### Playing the game
 - This page provides enhancements to user in order to play the game.
 - Provides user with the actual quiz,Scores and Questions Scalebar to show how many left to answer.
-- This page will also help user to identify if answer is correct or not/Feedback.
+- This page will also help user to identify if answer is correct or not/Feedback. If user answers wrong the red highlight/background would appear then user will be directed towards game over page, if user answers correctly the green background would appear and user continues towards the next question plus the scores will be updated
+- Questions are randomly picked from set of 15, if user plays more than once questions and the order of questions won't be same.
 
 ![image](https://user-images.githubusercontent.com/87448281/144344612-705b12fc-927a-4079-a9bc-bd0a16120c0a.png)
 
@@ -101,6 +102,7 @@ FontAwesome - for icons associated with styling inputs such as home button,Volum
 - Implement favicons so the browser tab would reflect Who-Wants-To-Be-A-Millionaire Game.
 - This game should be published on social media and copyrights to be issued.
 - Timer should be added so the user has to answer within a time limit.
+- A background image should be placed but due to copyright issues i have left it.
 
 ### Programing Languages
 - HTML
