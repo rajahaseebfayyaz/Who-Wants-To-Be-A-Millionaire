@@ -55,33 +55,45 @@ FontAwesome - for icons associated with styling inputs such as home button,Volum
 
 
 ##### Home Page
-- the image on the home page allows the user to see how the carpets and rugs were vend in ancient time.
-- this page have an eye catching animation for the user of carpet how-it-began to grab their attention.
-- this home page also explains the origin of carpets.
+- the image on the home page allows the user to start of game.
+- this page have an eye catching animation for the user to grab their attention.
+- this home page also includes the link to highscores plus the volume controls.
+
+
+![image](https://user-images.githubusercontent.com/87448281/144344092-35649420-f2cd-40b3-a555-b000c840ae10.png)
 
 
 
 #### Highscore page
-- this page allows the user to see the benefits of using the carpets.
-- this page also explains the different types of carpets, so it could be easy for user to decide which type of carpet they should consider.
+- this page allows the user to navigate towards leaderboard.
+- this page also enable to navigate even towards the start of the game if they want to play again.
+
+![image](https://user-images.githubusercontent.com/87448281/144344276-623ede16-71fe-4348-bffb-b9179d564ce8.png)
 
 
 
 #### Playing the game
-- the gallery will provide different images of revolution and use of carpets from ancient to modern period.
-- this page contain images that demonstrate the beauty of carpets and rugs to improve interior decor in ancient time even today.
+- This page provides enhancements to user in order to play the game.
+- Provides user with the actual quiz,Scores and Questions Scalebar to show how many left to answer.
+- This page will also help user to identify if answer is correct or not/Feedback.
+
+![image](https://user-images.githubusercontent.com/87448281/144344612-705b12fc-927a-4079-a9bc-bd0a16120c0a.png)
 
 
 
 #### Game End Page
-- the sign up page is valuable , as it provides the cleaning tips to the user.
-- the user will submit its details including first and surname along with their email address. 
-- after sign in , this page provides the exclusive tricks and tips for cleaning both the carpets and rugs.
+- This page will provide user with the score/leaderboard plus also notifies of end of the game.
+- User can also insert their name in the scorecard for rankings and user can save his/her records.
+
+![image](https://user-images.githubusercontent.com/87448281/144344897-226506c4-5918-4ec6-990d-eb5c8771f590.png)
+
 
 
 #### 404 Page
 
 - The 404 page provides the user to navigate straight back to the actual pages so that way they don't feel they are lost and not in my game anymore.
+
+![image](https://user-images.githubusercontent.com/87448281/144345025-f86bfda1-0a20-41c8-a1f8-2b75b60614aa.png)
 
 
 
