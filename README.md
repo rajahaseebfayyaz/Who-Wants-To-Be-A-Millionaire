@@ -90,6 +90,7 @@ https://fonts.google.com/specimen/Playfair+Display
 
 - Implement favicons so the browser tab would reflect Who-Wants-To-Be-A-Millionaire Game.
 - This game should be published on social media and copyrights to be issued.
+- Timer should be added so the user has to answer within a time limit.
 
 ### Programing Languages
 - HTML
