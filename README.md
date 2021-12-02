@@ -49,7 +49,7 @@ https://fonts.google.com/specimen/Playfair+Display
 
 ### Icons 
 
-FontAwesome - for icons associated with styling inputs such as home button,Volume controls.
+FontAwesome - for icons associated with styling inputs such as home button,Volume controls & Play buttons.
 
 ## Features
 
