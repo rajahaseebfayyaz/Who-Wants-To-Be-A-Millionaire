@@ -166,17 +166,21 @@ Ideally I wanted to test the game on Windows device but I had no access.
 
 ### Homepage
 
-- [x] All button go where they should
+- [x] All buttons go where they should
 - [x] All volume controls work the way they should 
 - [x] No console errors
 - [x] Looks nice on tablets 
 - [x] Looks nice on desktops
 - [x] Looks nice on phone
+- [x] If javascript is disabled user will get a response that without the javascript game won't work.
+
+![image](https://user-images.githubusercontent.com/87448281/144347411-96e56616-9453-4133-9212-60146d285d40.png)
+
 
 
 
 ### 404
-- [x] All Button points go where they should
+- [x] The Button takes user back to homepage
 - [x] No console errors
 - [x] Looks nice on tablets 
 - [x] Looks nice on desktops
@@ -189,6 +193,30 @@ Ideally I wanted to test the game on Windows device but I had no access.
 - [x] Looks nice on tablets 
 - [x] Looks nice on desktops
 - [x] Looks nice on phones
+- [x] Maximum 10 Highscores show
+- [x] The order of the hgih scores is from highest to lowest
+- [x] If there's an error getting the highscores a message about highscores will be displayed
+
+### Playing Game
+
+- [x] No console errors
+- [x] Looks nice on tablets 
+- [x] Looks nice on desktops
+- [x] Looks nice on phones
+- [x] Progressbar and counter increments as user gets closer towards the end of the quiz
+- [x] If user answers wrong the red highlight/background would appear then user will be directed towards game over page
+- [x] If user answers correctly the green background would appear and user continues towards the next question plus the scores will be updated
+- [x] If user plays more than once questions and the order of questions won't be same
+
+### Game Over page
+
+- [x] No console errors
+- [x] Looks nice on tablets 
+- [x] Looks nice on desktops
+- [x] Looks nice on phones
+- [x] Score matches the score when playing the game
+- [x] Saving score works if user doesn't enter a name, The score will be saved under Player One 
+- [x] All Button points go where they should
 
 
 
@@ -235,7 +263,7 @@ Ideally I wanted to test the game on Windows device but I had no access.
 - No outstanding defects.
 
 ## Deployment
-- The site was deployed to github pages. The steps to deploy are as follows:-
+The site was deployed to github pages. The steps to deploy are as follows:-
 
 1. In the Github repository, navigate to settings page.
 
