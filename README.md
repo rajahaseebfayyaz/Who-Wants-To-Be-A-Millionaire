@@ -56,7 +56,6 @@ FontAwesome - for icons associated with styling inputs such as home button,Volum
 
 ##### Home Page
 - the image on the home page allows the user to start of game.
-- this page have an eye catching animation for the user to grab their attention.
 - this home page also includes the link to highscores plus the volume controls.
 
 
