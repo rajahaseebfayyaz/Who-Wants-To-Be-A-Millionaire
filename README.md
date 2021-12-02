@@ -54,13 +54,6 @@ https://fonts.google.com/specimen/Playfair+Display
 
 ## Features
 
-### NAVIGATION
-
-- at the top left corner ,the navigation shows the website name carpet-how-it-all-began 
-- the other navigation links are to the right corner: Home, About, Gallery and Sign up which link to different sections of the same page.
-- the navigation explains the user the history of the carpets and how-it-began and different sections of information easy to find.
-
-
 
 ##### Home Page
 - the image on the home page allows the user to see how the carpets and rugs were vend in ancient time.
@@ -69,30 +62,22 @@ https://fonts.google.com/specimen/Playfair+Display
 
 
 
-#### About Page
+#### Highscore page
 - this page allows the user to see the benefits of using the carpets.
 - this page also explains the different types of carpets, so it could be easy for user to decide which type of carpet they should consider.
 
 
 
-#### Gallery
+#### Playing the game
 - the gallery will provide different images of revolution and use of carpets from ancient to modern period.
 - this page contain images that demonstrate the beauty of carpets and rugs to improve interior decor in ancient time even today.
 
 
 
-#### Sign-up Page
+#### Game End Page
 - the sign up page is valuable , as it provides the cleaning tips to the user.
 - the user will submit its details including first and surname along with their email address. 
 - after sign in , this page provides the exclusive tricks and tips for cleaning both the carpets and rugs.
-
-
-
-
-#### Footer
-- the footer provides the user with the authors details and copyright.
-- it it will also provide access to the social media links including twitter, instagram and youtube.
-
 
 
 #### 404 Page
@@ -104,6 +89,7 @@ https://fonts.google.com/specimen/Playfair+Display
 ## Future Features
 
 - Implement favicons so the browser tab would reflect Who-Wants-To-Be-A-Millionaire Game.
+- This game should be published on social media and copyrights to be issued.
 
 ### Programing Languages
 - HTML
