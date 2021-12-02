@@ -195,38 +195,40 @@ Ideally I wanted to test the game on Windows device but I had no access.
 
 ### BUGS
 
-I have faced several issues while making my first project but Mentioned below are the Most important bugs that I have managed to fix:-
+- I have faced several issues while making my first project but Mentioned below are the Most important bugs that I have managed to fix:-
 
-**file path issue**
-
+**File path issue**
+- File path was not correct '/' was present instead of index.html in the main page so in order to correct it syntax has been changed.
 
 
 **Index.html failed validation**
+- 12 errors were notified in the validation process in order to remove them context on few lines were changed/edited. 
 
 
-
-**questions quantity issue**
-
+**Questions quantity issue**
+- Questions were not showing up appropriately in order to fix that "<a onclick="startGame()"class="btn">Play</a>" was added.
 
 
 
 **Audio issue**
-
+- The audio wasn't working as file path was wrong in html page.In order to fix that changed the file path.
 
 
 
 **Content on various devices**
 
-- The content looked really vague when tested on different devices So, I order to fix them I added class to my sections which is body-text which limits the max width to 1200px.I also adjusted child paragraphs to have better spacing and line heights.
+- The content looked really vague when tested on different devices So, I order to fix them I added class to my sections which is body-text which limits the max width.I also adjusted child paragraphs to have better spacing and line heights.
 
 
 **Choice container issue**
 
+- Background color ws missing in order to fix that '.choice container' properties were added and modified.
+
 **Question Mark issue**
 
+- Some of the questions were showing ?? as twice so in order to fix that searched for all those questions and removed additional ??.
 
-
-
+- Apart from these all other validation issues were identified & fixed.
  
 
 ### Outstanding Defects
