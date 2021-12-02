@@ -140,6 +140,20 @@ Used lighthouse audit to check for accessibility issues in the game.
 
 ### Manual Testing
 
+### Cross Browser and Cross Device Testing
+
+I made sure my application looks good on different kind devices, different Operating systems and browsers!.
+
+
+| Device                | Browser  | OS             | SCREEN WIDTH |
+|-----------------------|----------|----------------|--------------|
+| iphone 12             | Safari   | ios            | 390 x 844    |
+| ipad(Chrome emulator) | Chrome   | ios            | 768 x 1024   |
+| Macbook Pro           | Safari   | ios.           | 2560 x 1600  |
+
+Ideally I wanted to test the game on Windows device but I had no access.
+
+
 ### Homepage
 
 - [x] All button go where they should
