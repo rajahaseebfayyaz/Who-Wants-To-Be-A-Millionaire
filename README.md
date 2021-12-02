@@ -116,11 +116,35 @@ colors.co I used a colors.co's color pallet tool to help pick complementary colo
 
 ### Validation Testing
 
-[CSS Validator Testing](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frajahaseebfayyaz.github.io%2FCarpet-How-it-all-Began%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+[CSS Validator Testing](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frajahaseebfayyaz.github.io%2FWho-Wants-To-Be-A-Millionaire%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+![image](https://user-images.githubusercontent.com/87448281/144332583-e75b29d2-5a08-4648-a66a-b9f6b4a809f7.png)
+
+[HTML index.html Validator testing](https://validator.w3.org/nu/?doc=https%3A%2F%2Frajahaseebfayyaz.github.io%2FWho-Wants-To-Be-A-Millionaire%2F)
+
+![image](https://user-images.githubusercontent.com/87448281/144333355-005591c3-53e3-4093-9238-def2678b8f1f.png)
+
+
+
+[HTML 404.html Validator testing](https://validator.w3.org/nu/?doc=https%3A%2F%2Frajahaseebfayyaz.github.io%2FWho-Wants-To-Be-A-Millionaire%2F404.html)
+
+![image](https://user-images.githubusercontent.com/87448281/144333518-63e2dec4-5d63-4ba4-bcb7-7f199acc104e.png)
+
+[JS Validation](https://jshint.com/)
+
+Pasted javascript file for validation purposes to clear up and check for warnings.
+
+![image](https://user-images.githubusercontent.com/87448281/144334434-563c1dd0-5656-4aaf-9822-dec84eda8350.png)
+
+
+
 
 
 ### Accessibility Testing
 
+![image](https://user-images.githubusercontent.com/87448281/144334636-38e5a477-0f50-4ce9-b5cb-1f54c8fc3b2f.png)
+
+Used lighthouse audit to check for accessibility issues in the game.
 
 
 
@@ -128,43 +152,25 @@ colors.co I used a colors.co's color pallet tool to help pick complementary colo
 
 ### Homepage
 
-- [x] All navigation points go where they should
-- [x] All footer links open new tabs because they are not on the website
+- [x] All button go where they should
+- [x] All volume controls work the way they should 
 - [x] No console errors
 - [x] Looks nice on tablets 
 - [x] Looks nice on desktops
-- [x] Looks nice on phones
+- [x] Looks nice on phone
 
-### About page
-- [x] All navigation points go where they should
-- [x] All footer links open new tabs because they are not on the website
-- [x] No console errors
-- [x] Looks nice on tablets 
-- [x] Looks nice on desktops
-- [x] Looks nice on phones
 
-### Gallery
-- [x] All navigation points go where they should
-- [x] All footer links open new tabs because they are not on the website
-- [x] No console errors
-- [x] The gallery panel is fully responsive
-- [x] The gallery image clicks nicely and scrolls down to the images in the section below
-- [x] Looks nice on tablets 
-- [x] Looks nice on desktops
-- [x] Looks nice on phones
-
-### Signup form
-- [x] All navigation points go where they should
-- [x] All footer links open new tabs because they are not on the website
-- [x] No console errors
-- [x] Looks nice on tablets 
-- [x] Looks nice on desktops
-- [x] Won't submit the form if requirements are not met
-- [x] After successful submission of the form it leads to CI's formdump website
 
 ### 404
-- [x] All navigation points go where they should
-- [x] All footer links open new tabs because they are not on the website
+- [x] All Button points go where they should
+- [x] No console errors
+- [x] Looks nice on tablets 
+- [x] Looks nice on desktops
+- [x] Looks nice on phones
+
+### Highscores Page
+
+- [x] All Button points go where they should
 - [x] No console errors
 - [x] Looks nice on tablets 
 - [x] Looks nice on desktops
