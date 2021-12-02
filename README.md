@@ -5,7 +5,9 @@
 
 ![image](https://user-images.githubusercontent.com/87448281/144338050-eada130d-91bc-42d7-b472-12b20bf3dc4b.png)
 
+## Deployed URL
 
+https://rajahaseebfayyaz.github.io/Who-Wants-To-Be-A-Millionaire/index.html
 
 A Game to Test User's General Knowledge with the element of fun and excitement.
 
