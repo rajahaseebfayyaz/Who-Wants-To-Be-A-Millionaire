@@ -226,16 +226,17 @@ I have faced several issues while making my first project but Mentioned below ar
 
 1. In the Github repository, navigate to settings page.
 
-![image](https://user-images.githubusercontent.com/87448281/138536353-66bba5f9-85e9-417b-82ff-818e9963fd19.png)
+![image](https://user-images.githubusercontent.com/87448281/144343181-133dc65f-aeee-4da7-a450-3b390c47e7c6.png)
+
 
 
 2. On the settings page,scroll all the way down to the github pages section and click the link.
 
-![image](https://user-images.githubusercontent.com/87448281/138536390-b9406097-6b65-4e7d-92fc-ba4dbc498374.png)
+
 
 3. From the source section drops-down menu, select the Master Branch.
 
-![image](https://user-images.githubusercontent.com/87448281/138536442-300ff2aa-8b0c-4277-a62b-649c272baa4d.png)
+https://rajahaseebfayyaz.github.io/Who-Wants-To-Be-A-Millionaire/
 
 
 4. Once the master branch has been selected click save ,than the page provides the link to the completed website in a green box.
