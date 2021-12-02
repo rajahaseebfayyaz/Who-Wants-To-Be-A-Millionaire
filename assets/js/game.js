@@ -280,10 +280,10 @@ showHighScores = () => {
     } catch {
         // if we had an error, empty out the local storage so we an have success next time.
         localStorage.setItem('highscores', JSON.stringify([]));
-        innerHTML = "<li>No high scores saved yet!</li>";
+        innerHTML = "<li><span>No high scores saved yet!</span></li>";
     }
     if (highscores.length === 0) {
-        innerHTML = "<li>No high scores saved yet!</li>";
+        innerHTML = "<li><span>No high scores saved yet!</span></li>";
     }
     highScoresList.innerHTML = innerHTML;
     hideAll();
