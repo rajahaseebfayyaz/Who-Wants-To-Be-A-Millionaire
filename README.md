@@ -225,7 +225,7 @@ Ideally I wanted to test the game on Windows device but I had no access.
 
 ### BUGS
 
-- I have faced several issues while making my first project but Mentioned below are the Most important bugs that I have managed to fix:-
+I have faced several issues while making my first project but Mentioned below are the Most important bugs that I have managed to fix:-
 
 **File path issue**
 - File path was not correct '/' was present instead of index.html in the main page so in order to correct it syntax has been changed.
