@@ -7,7 +7,7 @@
 
 ## Deployed URL
 
-https://rajahaseebfayyaz.github.io/Who-Wants-To-Be-A-Millionaire/index.html
+https://rajahaseebfayyaz.github.io/Who-Wants-To-Be-A-Millionaire/
 
 A Game to Test User's General Knowledge with the element of fun and excitement.
 
