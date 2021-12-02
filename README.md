@@ -67,7 +67,8 @@ FontAwesome - for icons associated with styling inputs such as home button,Volum
 - this page allows the user to navigate towards leaderboard.
 - this page also enable to navigate even towards the start of the game if they want to play again.
 
-![image](https://user-images.githubusercontent.com/87448281/144344276-623ede16-71fe-4348-bffb-b9179d564ce8.png)
+![image](https://user-images.githubusercontent.com/87448281/144349923-7c84446f-0725-4368-a9ed-465eb8edb83f.png)
+
 
 
 
